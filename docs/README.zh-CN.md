@@ -16,7 +16,7 @@
 https://corerain.github.io/time-line/
 
 <p align="center">
-    <img alt="TimeLine demo" width="100%" src="./images/example.png">
+    <img alt="TimeLine demo" width="100%" src="../images/example.png">
 </p>
 
 ## 使用
