@@ -13,7 +13,7 @@
 
 ## 预览
 
-https://corerain.github.io/time-line/
+https://corerain.github.io/timeline/
 
 <p align="center">
     <img alt="TimeLine demo" width="100%" src="../images/example.png">
